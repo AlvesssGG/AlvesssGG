@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Tecnologias que utilizo
+## 🚀 Tecnologias que utilizo ou estou estudando
 
 <p align="left">
   <!-- HTML -->
@@ -35,27 +35,6 @@
   <!-- Laravel -->
   <a href="https://laravel.com/" target="_blank">
     <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🌐 Onde me encontrar
-
-<p align="left">
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/alvesss.fg/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <!-- Discord -->
-  <a href="https://discord.com/users/alvesssfg" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gabriel-alves-709613306/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
